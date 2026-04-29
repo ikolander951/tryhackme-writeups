@@ -18,16 +18,16 @@ Personal writeups and notes from TryHackMe rooms as I work toward a SOC analyst 
 
 ## Writeups
 
-### AI Security path (completed prior to pivot)
+### Completed (April 2026)
 
 | # | Room | Path | Writeup |
 |---|------|------|---------|
-| 1 | _Rename me_ | AI Security | [room-1.md](rooms/room-1.md) |
-| 2 | _Rename me_ | AI Security | [room-2.md](rooms/room-2.md) |
-| 3 | _Rename me_ | AI Security | [room-3.md](rooms/room-3.md) |
-| 4 | _Rename me_ | AI Security | [room-4.md](rooms/room-4.md) |
-| 5 | _Rename me_ | AI Security | [room-5.md](rooms/room-5.md) |
-| 6 | _Rename me_ | AI Security | [room-6.md](rooms/room-6.md) |
+| 1 | What is Networking? | Pre-Security | [what-is-networking.md](rooms/what-is-networking.md) |
+| 2 | AI/ML Security Threats | AI Security | [aiml-security-threats.md](rooms/aiml-security-threats.md) |
+| 3 | Offensive Security Intro | Pre-Security | [offensive-security-intro.md](rooms/offensive-security-intro.md) |
+| 4 | Defensive Security Intro | Pre-Security | [defensive-security-intro.md](rooms/defensive-security-intro.md) |
+| 5 | Experience Cyber Security | Pre-Security | [experience-cyber-security.md](rooms/experience-cyber-security.md) |
+| 6 | AI Security Path Ticketing Event | AI Security | [ai-security-path-ticketing-event.md](rooms/ai-security-path-ticketing-event.md) |
 
 ### Cyber Security 101
 
